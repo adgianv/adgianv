@@ -43,7 +43,7 @@ Software engineering student at 42 School, diving into C programming and more.
 
 - [🤖 NLP Transformer Architectures for Financial Sentiment Analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
 - [🧠 Deep Learning Health Conditions Prediction](https://github.com/adgianv/DeepLearning-MLP_Patients_Health_Predictions)
-- [📊 2D Game (C)](https://github.com/adgianv/2D_Game-PacMan)
+- [🎮 2D Game (C)](https://github.com/adgianv/2D_Game-PacMan)
 
 ## 📫 Get in Touch
 
