@@ -20,13 +20,22 @@ I am a data science master's student with a passion for AI, machine learning, an
 
 ## 🧠 Expertise
 
-- **Deep Learning**: Proficient in building neural networks and applying them to solve complex problems.
-- **Machine Learning**: Skilled in designing ML models for classification, regression, and clustering tasks.
-- **Natural Language Processing (NLP)**: Experienced in leveraging NLP techniques for text analysis and understanding.
-- **Reinforcement Learning**: Knowledgeable in implementing RL algorithms for autonomous decision-making.
-- **Big Data Management**: Familiar with tools and frameworks for handling large-scale data processing.
-- **Data Engineering**: Capable of designing and optimizing data pipelines for efficiency and scalability.
-- **Statistics and Advanced Mathematics**: Strong foundation in statistical analysis and mathematical modeling.
+### 🤖 Machine Learning & AI
+- **Deep Learning**: 🧠 Building neural networks for complex tasks.
+- **Machine Learning Models**: 📈 Developing ML models for various applications.
+- **Natural Language Processing (NLP)**: 📝 Leveraging NLP techniques for text analysis.
+- **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
+
+### 🌐 Data Science & Analytics
+- **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
+- **Data Engineering**: 🛠️ Designing and optimizing data pipelines.
+- **Statistical Analysis**: 📈 Applying statistical methods to extract insights.
+- **Advanced Mathematics**: 🧮 Solving problems using mathematical modeling.
+
+### 🚀 Software Development
+- **Programming Languages**: 💻 Proficient in Python, C, SQL, R, HTML, CSS, Bash.
+- **Version Control**: 📜 Experienced with Git for version control.
+- **TensorFlow**: 🧠 Building deep learning models using TensorFlow.
 
 ## 🌟 Featured Projects
 
