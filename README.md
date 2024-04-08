@@ -7,16 +7,15 @@ I am a data science master's student with a passion for AI, machine learning, an
 
 ## 🚀 Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-000?logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/-C-000?logo=C&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL&logoColor=white)
-![R](https://img.shields.io/badge/-R-000?logo=R&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?logo=Git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow&logoColor=white)
-![DataScience](https://img.shields.io/badge/-DataScience-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAIAAABCNGduAAAAhklEQVR4AWMgGDYwAUMIIgMxVZTFZALiDjA9MwD3C/EDOwOUtYQDf8qEAM0lWKC8YAo8AOQgwAeTkwDjJX0O8YXwBLF5Ei4z4n/EaQAKTMgAi1jGBcCXAQgB1OhKMCkj6HzJGiAIrDCQAwqBGEQr6JoQzUAcTECaBShBGIjGQbMAMnUkGSS9DAEzgwACqBHQPAZ1TkKAAAAAElFTkSuQmCC)
-![Bash](https://img.shields.io/badge/-Bash-000?logo=GNU%20Bash&logoColor=white)
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/> </a>
+<a href="https://devdocs.io/c/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="C" height="42px"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" alt="SQL" height="42px"/> </a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/r/r.svg" alt="R" height="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git/git.svg" alt="Git" height="42px"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px"/> </a>
 
 ## 🧠 Expertise
 
