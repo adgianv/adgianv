@@ -45,7 +45,6 @@ I'm Angelo, a data science master's student with a passion for AI, machine learn
 
 ## 📊 GitHub Activity
 
-<!-- Replace `your-username` with your actual GitHub username -->
 <img src="https://github-readme-stats.vercel.app/api?username=adgianv&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
 
 ## 📫 Get in Touch
