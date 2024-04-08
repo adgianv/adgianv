@@ -30,7 +30,7 @@ I am a data science master's student with a passion for AI, machine learning, an
 
 ## 🌟 Featured Projects
 
-- [🤖 NLP Tranformer Architectures and advanced methods for Financial Sentiment Analysis](https://github.com/adgianv/nlp-sentiment-analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter))
+- [🤖 NLP Tranformer Architectures and advanced methods for Financial Sentiment Analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
 - [🧠 Deep Learning Health Conditions Prediction](https://github.com/adgianv/deep-learning-image-classifier](https://github.com/adgianv/DeepLearning-MLP_Patients_Health_Predictions))
 - [📊 2D Game (C)](https://github.com/adgianv/sql-data-analytics-dashboard](https://github.com/adgianv/2D_Game-PacMan))
 
