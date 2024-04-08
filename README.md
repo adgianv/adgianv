@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/angelo-d-157381105/)
 [![GitHub](https://img.shields.io/badge/-Follow-black?style=flat&logo=GitHub)](https://github.com/adgianv)
 
-I'm Angelo, a data science master's student with a passion for AI, machine learning, and NLP. Currently, I'm exploring software engineering at 42 School, diving into C programming and more.
+Data science master's student with a passion for AI, machine learning, and NLP. 
+
+Software engineering student at 42 School, diving into C programming and more.
 
 ## 🚀 Skills & Technologies
 
