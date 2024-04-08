@@ -1,4 +1,4 @@
-# Hi there, I'm Angelo di Gianvito! 👋
+# Hi there, I'm Angelo! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/angelo-d-157381105/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub)](https://github.com/adgianv)
