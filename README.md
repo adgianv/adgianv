@@ -5,6 +5,7 @@
 
 I am a data science master's student with a passion for AI, machine learning, and NLP. Currently, I am also studying software engineering at 42 School, delving deep into C programming, algorithms, software engineering, graphics, and more.
 
+
 ## 🚀 Skills & Technologies
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/> </a>
