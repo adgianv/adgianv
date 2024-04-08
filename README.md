@@ -1,53 +1,46 @@
+# Hello, I'm [Your Name]! 👋
 
----
-title: AshifMohammad
-date: '2020-08-22'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'AshifMohammad'
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter)](https://twitter.com/yourtwitterhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Internet-Archive)](https://yourportfolio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub)](https://github.com/yourgithubname)
 
+I am a versatile technologist who loves to explore and create with various technologies, from full-stack development to machine learning and design. With a passion for innovation, I'm constantly diving into new tech stacks to build exciting projects.
 
+## 🚀 Skills & Technologies
 
-### Hi there 👋
+![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow)
+![UI/UX Design](https://img.shields.io/badge/-UI/UX%20Design-000?logo=Figma)
 
-<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## 🌟 Featured Projects
 
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
+- [🚀 My Awesome Project](https://github.com/yourusername/awesome-project)
+- [🌐 Personal Portfolio Website](https://github.com/yourusername/portfolio-website)
+- [🤖 Machine Learning Playground](https://github.com/yourusername/ml-playground)
 
+## 📚 What I'm Up To
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🔭 Currently working on [Project Name]
+- 🌱 Learning [Technology/Tool]
+- 💬 Ask me about anything related to tech or project collaboration
 
-```javascript
-const ashifZafar = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
-  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
-  techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
+## 📈 GitHub Stats
 
+<a href="https://github.com/yourgithubname">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourgithubname&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</a>
 
-                                           
-                      },
-}
-```
+## 📫 Get in Touch
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+Let's connect and collaborate! Feel free to reach out:
 
----
+- 📧 Email: youremail@example.com
+- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com/)
 
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
- 
- ---
- ⭐️ From [@Ashif](https://github.com/Ashif)
- 
- 
+Looking forward to exciting projects and opportunities! 😊
