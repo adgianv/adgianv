@@ -5,7 +5,7 @@
 
 Data science master's student with a passion for AI, machine learning, and NLP. 
 
-Software engineering student at 42 School, diving into C programming and more.
+Software engineering student at 42 School.
 
 ## 🚀 Skills & Technologies
 
