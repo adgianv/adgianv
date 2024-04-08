@@ -41,4 +41,4 @@ Let's connect and collaborate! Feel free to reach out:
 - 📧 Email: a.digianvito@hotmail.it
 - 🌐 LinkedIn: [Angelo di Gianvito](https://www.linkedin.com/in/angelo-d-157381105/)
 
-Looking forward to exciting projects and opportunities! 😊
+Looking forward to exciting projects and opportunities!
