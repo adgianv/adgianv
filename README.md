@@ -25,6 +25,7 @@ I am a data science master's student with a passion for AI, machine learning, an
 - **Machine Learning Models**: 📈 Developing ML models for various applications.
 - **Natural Language Processing (NLP)**: 📝 Leveraging NLP techniques for text analysis.
 - **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
+- **TensorFlow**: 🧠 Building deep learning models using TensorFlow.
 
 ### 🌐 Data Science & Analytics
 - **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
@@ -35,7 +36,7 @@ I am a data science master's student with a passion for AI, machine learning, an
 ### 🚀 Software Development
 - **Programming Languages**: 💻 Proficient in Python, C, SQL, R, HTML, CSS, Bash.
 - **Version Control**: 📜 Experienced with Git for version control.
-- **TensorFlow**: 🧠 Building deep learning models using TensorFlow.
+
 
 ## 🌟 Featured Projects
 
