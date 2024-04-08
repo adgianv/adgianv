@@ -1,46 +1,44 @@
-# Hello, I'm [Your Name]! 👋
+# Hi there, I'm Angelo di Gianvito! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Internet-Archive)](https://yourportfolio.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub)](https://github.com/yourgithubname)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/angelo-d-157381105/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub)](https://github.com/adgianv)
 
-I am a versatile technologist who loves to explore and create with various technologies, from full-stack development to machine learning and design. With a passion for innovation, I'm constantly diving into new tech stacks to build exciting projects.
+I am a data science master's student with a passion for AI, machine learning, and NLP. Currently, I am also studying software engineering at 42 School, delving deep into C programming, algorithms, software engineering, graphics, and more.
 
 ## 🚀 Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-000?logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow)
-![UI/UX Design](https://img.shields.io/badge/-UI/UX%20Design-000?logo=Figma)
+![Python](https://img.shields.io/badge/-Python-000?logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?logo=C&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL&logoColor=white)
+![R](https://img.shields.io/badge/-R-000?logo=R&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?logo=Git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=TensorFlow&logoColor=white)
+![DataScience](https://img.shields.io/badge/-DataScience-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAIAAABCNGduAAAAhklEQVR4AWMgGDYwAUMIIgMxVZTFZALiDjA9MwD3C/EDOwOUtYQDf8qEAM0lWKC8YAo8AOQgwAeTkwDjJX0O8YXwBLF5Ei4z4n/EaQAKTMgAi1jGBcCXAQgB1OhKMCkj6HzJGiAIrDCQAwqBGEQr6JoQzUAcTECaBShBGIjGQbMAMnUkGSS9DAEzgwACqBHQPAZ1TkKAAAAAElFTkSuQmCC)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=GNU%20Bash&logoColor=white)
+
+## 🧠 Expertise
+
+- **Deep Learning**: Proficient in building neural networks and applying them to solve complex problems.
+- **Machine Learning**: Skilled in designing ML models for classification, regression, and clustering tasks.
+- **Natural Language Processing (NLP)**: Experienced in leveraging NLP techniques for text analysis and understanding.
+- **Reinforcement Learning**: Knowledgeable in implementing RL algorithms for autonomous decision-making.
+- **Big Data Management**: Familiar with tools and frameworks for handling large-scale data processing.
+- **Data Engineering**: Capable of designing and optimizing data pipelines for efficiency and scalability.
+- **Statistics and Advanced Mathematics**: Strong foundation in statistical analysis and mathematical modeling.
 
 ## 🌟 Featured Projects
 
-- [🚀 My Awesome Project](https://github.com/yourusername/awesome-project)
-- [🌐 Personal Portfolio Website](https://github.com/yourusername/portfolio-website)
-- [🤖 Machine Learning Playground](https://github.com/yourusername/ml-playground)
-
-## 📚 What I'm Up To
-
-- 🔭 Currently working on [Project Name]
-- 🌱 Learning [Technology/Tool]
-- 💬 Ask me about anything related to tech or project collaboration
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/yourgithubname">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourgithubname&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</a>
+- [🤖 NLP Sentiment Analysis](https://github.com/adgianv/nlp-sentiment-analysis)
+- [🧠 Deep Learning Image Classifier](https://github.com/adgianv/deep-learning-image-classifier)
+- [📊 SQL Data Analytics Dashboard](https://github.com/adgianv/sql-data-analytics-dashboard)
 
 ## 📫 Get in Touch
 
 Let's connect and collaborate! Feel free to reach out:
 
-- 📧 Email: youremail@example.com
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com/)
+- 📧 Email: a.digianvito@hotmail.it
+- 🌐 LinkedIn: [Angelo di Gianvito](https://www.linkedin.com/in/angelo-d-157381105/)
 
 Looking forward to exciting projects and opportunities! 😊
