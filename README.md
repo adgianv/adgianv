@@ -45,12 +45,6 @@ Software engineering student at 42 School, diving into C programming and more.
 - [🧠 Deep Learning Health Conditions Prediction](https://github.com/adgianv/DeepLearning-MLP_Patients_Health_Predictions)
 - [📊 2D Game (C)](https://github.com/adgianv/2D_Game-PacMan)
 
-## 📊 GitHub Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adgianv&show_icons=true&theme=radical)](https://github.com/adgianv)
-
-Click on the GitHub Stats above to view more details on my GitHub profile!
-
 ## 📫 Get in Touch
 
 Let's connect and collaborate! Feel free to reach out:
