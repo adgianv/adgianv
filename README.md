@@ -21,11 +21,11 @@ I am a data science master's student with a passion for AI, machine learning, an
 ## 🧠 Expertise
 
 ### 🤖 Machine Learning & AI
-- **Deep Learning**: 🧠 Building neural networks for complex tasks.
+- **Deep Learning**: ⛓️ Building neural networks for complex tasks.
 - **Machine Learning Models**: 📈 Developing ML models for various applications.
 - **Natural Language Processing (NLP)**: 📝 Leveraging NLP techniques for text analysis.
 - **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
-- **TensorFlow**: 🧠 Building deep learning models using TensorFlow.
+- **TensorFlow**: 🛠️ Building deep learning models using TensorFlow.
 
 ### 🌐 Data Science & Analytics
 - **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
