@@ -15,4 +15,4 @@ name: Angelo Di Gianvito
 </p>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adgianv/adgianv/blob/output/github-contribution-grid-snake.svg)
