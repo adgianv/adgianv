@@ -23,17 +23,18 @@ Software engineering student at 42 School.
 ## 🧠 Expertise
 
 ### 🤖 Machine Learning & AI
-- **Deep Learning**: ⛓️ Building neural networks for complex tasks.
-- **Machine Learning Models**: 📈 Developing ML models for various applications.
-- **Natural Language Processing (NLP)**: 📝 Leveraging NLP techniques for text analysis.
+- **Machine Learning**: 📈 Developing ML models for various applications.
+- **Deep Learning**: ⛓️ Solving problems building ANNs.
+- **Natural Language Processing (NLP)**: 📝 Leveraging NLP models (LLMs, RNNs, LSTMs...) for sequential data analysis and embedding systems.
+- **Image Analysis**: 🎇 Computer vision techniques to analysze image data (CNNs, U-Net, Object Location, Semantic Segmentation...).
 - **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
-- **TensorFlow**: 🛠️ Building deep learning models using TensorFlow.
+- **TensorFlow**: 🛠️ Building using TensorFlow and Keras.
 
 ### 🌐 Data Science & Analytics
 - **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
 - **Data Engineering**: 🛠️ Designing and optimizing data pipelines.
 - **Statistical Analysis**: 📈 Applying statistical methods to extract insights.
-- **Advanced Mathematics**: 🧮 Solving problems using mathematical modeling.
+- **Advanced Mathematics**: 🧮 Solving problems with mathematical modeling.
 
 ### 🚀 Software Development
 - **Programming Languages**: 💻 Proficient in Python, C, SQL, HTML, CSS, Bash.
