@@ -1,6 +1,7 @@
 # Hello, I'm Angelo! 👋
 
 Reach me:
+
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/angelo-d-157381105/)
 [![GitHub](https://img.shields.io/badge/-Follow-black?style=flat&logo=GitHub)](https://github.com/adgianv)
 
