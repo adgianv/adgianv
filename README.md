@@ -26,7 +26,7 @@ Software engineering student at 42 School.
 - **Machine Learning**: 📈 Developing ML models for various applications.
 - **Deep Learning**: ⛓️ Solving problems building ANNs.
 - **Natural Language Processing (NLP)**: 📝 Leveraging NLP models (LLMs, RNNs, LSTMs...) for sequential data analysis and embedding systems.
-- **Image Analysis**: 🎇 Computer vision techniques to analyze image data (CNNs, U-Net, Object Location, Semantic Segmentation...).
+- **Image Analysis**: 🎇 Computer vision techniques to analyze image data (CNNs, ResNet, YOLO, U-Net, Object Location, Semantic Segmentation...).
 - **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
 - **TensorFlow**: 🛠️ Building using TensorFlow and Keras.
 
