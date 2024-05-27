@@ -7,7 +7,7 @@ Data science master's student with a passion for Machine Learning and AI.
 
 Software engineering student at 42 School.
 
-## 🚀 Skills & Technologies
+## 🚀 Favorite Programming Languages and Frameworks
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="50px"/>
