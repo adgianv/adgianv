@@ -17,10 +17,10 @@ Software engineering student at 42 School.
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="50px"/>
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="50px"/>
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50px"/>
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" height="50px"/>
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/images/logo.png" alt="MLflow" height="50px"/>
 
 
 </p>
