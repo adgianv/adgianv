@@ -28,7 +28,7 @@ Software engineering student at 42 School.
 - **Natural Language Processing (NLP)**: 📝 Leveraging NLP models (LLMs, RNNs, LSTMs...) for sequential data analysis and embedding systems.
 - **Image Analysis**: 🎇 Computer vision techniques to analyze image data (CNNs, ResNet, YOLO, U-Net, Object Location, Semantic Segmentation...).
 - **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
-- **TensorFlow**: 🛠️ Building using TensorFlow and Keras.
+- **TensorFlow/PyTorch**: 🛠️ Building using TensorFlow and PyTorch.
 
 ### 🌐 Data Science & Analytics
 - **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
