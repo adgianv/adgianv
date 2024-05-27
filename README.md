@@ -21,6 +21,8 @@ Software engineering student at 42 School.
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50px"/>
 
 
 </p>
