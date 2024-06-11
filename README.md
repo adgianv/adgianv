@@ -1,9 +1,5 @@
 # Hello, I'm Angelo! 👋
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ1ZmMyNGM3YjgyZjVkMTc3YmQwZTBiN2Q1OGY4NTllYjhjZTc5YSZlcD12MV9zdGF0aWMvd2VicC9naWZoeC5naWY/97tI1oY3uSmNNongqo/giphy.gif" alt="AI Neural Network GIF" width="400px"/>
-</p>
-
 Data science master's student with a passion for Machine Learning and AI.
 
 Software engineering student at 42 School.
