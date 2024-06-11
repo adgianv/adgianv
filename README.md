@@ -1,6 +1,8 @@
 # Hello, I'm Angelo! 👋
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="AI Neural Network GIF" width="400px"/>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ1ZmMyNGM3YjgyZjVkMTc3YmQwZTBiN2Q1OGY4NTllYjhjZTc5YSZlcD12MV9zdGF0aWMvd2VicC9naWZoeC5naWY/97tI1oY3uSmNNongqo/giphy.gif" alt="AI Neural Network GIF" width="400px"/>
+</p>
 
 Data science master's student with a passion for Machine Learning and AI.
 
@@ -33,4 +35,32 @@ Reach me:
 - **Machine Learning**: 📈 Developing ML models for various applications.
 - **Deep Learning**: ⛓️ Solving problems building ANNs.
 - **Natural Language Processing (NLP)**: 📝 Leveraging NLP models (LLMs, RNNs, LSTMs...) for sequential data analysis and embedding systems.
-- **Ima
+- **Image Analysis**: 🎇 Computer vision techniques to analyze image data (CNNs, ResNet, YOLO, U-Net, Object Location, Semantic Segmentation...).
+- **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
+- **TensorFlow/PyTorch**: 🛠️ Building using TensorFlow and PyTorch.
+
+### 🌐 Data Science & Analytics
+- **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
+- **Data Engineering**: 🛠️ Designing and optimizing data pipelines.
+- **Statistical Analysis**: 📈 Applying statistical methods to extract insights.
+- **Advanced Mathematics**: 🧮 Solving problems with mathematical modeling.
+
+### 🚀 Software Development
+- **Programming Languages**: 💻 Proficient in Python, C, SQL, HTML, CSS, Bash.
+- **Version Control**: 📜 Experienced with Git for version control.
+
+## 🌟 Featured Projects
+
+- [🤖 Deep Learning and NLP - Transformer Architectures for Financial Sentiment Analysis (Python and Jupyter)](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
+- [🧠 Deep Learning - Health Conditions Prediction (Python and Jupyter)](https://github.com/adgianv/DeepLearning-MLP_Patients_Health_Predictions)
+- [🔁 NLP - Job Resume Matching Algorithm (Python and Jupyter)](https://github.com/adgianv/NLP-Job_CV_Matcher)
+- [🎮 2D Game (C)](https://github.com/adgianv/2D_Game-PacMan)
+
+## 📫 Get in Touch
+
+Let's connect and collaborate! Feel free to reach out:
+
+- 📧 Email: a.digianvito@hotmail.it
+- 🌐 LinkedIn: [Angelo di Gianvito](https://www.linkedin.com/in/angelo-d-157381105/)
+
+Looking forward to exciting projects and opportunities!
