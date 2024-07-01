@@ -1,8 +1,6 @@
 # Hello, I'm Angelo! 👋
 
-Data science master's student with a passion for Machine Learning and AI.
-
-Software development student at 42 School.
+I am a Machine Learning Engineer and Software developmer.
 
 Reach me:
 
