@@ -44,8 +44,8 @@ Reach me:
 - **Version Control**: 📜 Experienced with Git for version control.
 
 ## 🌟 Featured Projects
-
-- [🤖 Deep Learning and NLP - Transformer Architectures for Financial Sentiment Analysis (Python and Jupyter)](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
+- [🤖 Computer Vision - Object Detection model for tanks in war images using YOLO](https://github.com/adgianv/Object-Detection-Model)
+- [🧠 Deep Learning and NLP - Transformer Architectures for Financial Sentiment Analysis (Python and Jupyter)](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
 - [🧠 Deep Learning - Health Conditions Prediction (Python and Jupyter)](https://github.com/adgianv/DeepLearning-MLP_Patients_Health_Predictions)
 - [🔁 NLP - Job Resume Matching Algorithm (Python and Jupyter)](https://github.com/adgianv/NLP-Job_CV_Matcher)
 - [🎮 2D Game (C)](https://github.com/adgianv/2D_Game-PacMan)
