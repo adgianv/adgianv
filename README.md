@@ -2,7 +2,7 @@
 
 Data science master's student with a passion for Machine Learning and AI.
 
-Software engineering student at 42 School.
+Software development student at 42 School.
 
 Reach me:
 
