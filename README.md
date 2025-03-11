@@ -1,4 +1,4 @@
-# Hello, I'm Angelo! 👋
+# Hi
 
 I am a Machine Learning Engineer and Software developmer.
 
