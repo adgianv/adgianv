@@ -1,6 +1,6 @@
 # Hi
 
-I am a Machine Learning Engineer and Software developmer.
+I am a Machine Learning Engineer and Software developer.
 
 Reach me:
 
