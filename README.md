@@ -23,26 +23,6 @@ Reach me:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" height="50px"/>
 </p>
 
-## 🧠 Expertise
-
-### 🤖 Machine Learning & AI
-- **Machine Learning**: 📈 Developing ML models for various applications.
-- **Deep Learning**: ⛓️ Solving problems building ANNs.
-- **Natural Language Processing (NLP)**: 📝 Leveraging NLP models (LLMs, RNNs, LSTMs...) for sequential data analysis and embedding systems.
-- **Image Analysis**: 🎇 Computer vision techniques to analyze image data (CNNs, ResNet, YOLO, U-Net, Object Location, Semantic Segmentation...).
-- **Reinforcement Learning**: 🎮 Implementing RL algorithms for decision-making.
-- **TensorFlow/PyTorch**: 🛠️ Building using TensorFlow and PyTorch.
-
-### 🌐 Data Science & Analytics
-- **Big Data Management**: 📊 Handling and analyzing large-scale datasets.
-- **Data Engineering**: 🛠️ Designing and optimizing data pipelines.
-- **Statistical Analysis**: 📈 Applying statistical methods to extract insights.
-- **Advanced Mathematics**: 🧮 Solving problems with mathematical modeling.
-
-### 🚀 Software Development
-- **Programming Languages**: 💻 Proficient in Python, C, SQL, HTML, CSS, Bash.
-- **Version Control**: 📜 Experienced with Git for version control.
-
 ## 🌟 Featured Projects
 - [🤖 Computer Vision - Master Thesis: War through the Lens of AI. Detecting war images in Television News](https://github.com/adgianv/Thesis---War-Image-Classification)
 - [🤖 Computer Vision - Object Detection model for tanks in war images using YOLO](https://github.com/adgianv/Object-Detection-Model)
