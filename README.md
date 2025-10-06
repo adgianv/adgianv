@@ -8,7 +8,7 @@
  [![GitHub](https://img.shields.io/badge/-Follow-black?style=flat&logo=GitHub)](https://github.com/adgianv)
 
   ## 🌟 Featured Open Source Projects and Research
- - [🌾 Sieves - Library to build NLP prototypes using Zero and Few-shot NLP tasks with structured generation.](https://github.com/MantisAI/sieves)
+ - [🌾 Sieves - Python Library and package to build NLP prototypes using LLMs via Zero and Few-shot tasks with structured generation.](https://github.com/MantisAI/sieves)
  - [🪲 Sei Agent Kit - Typescript SDK to build AI Agents on the SEI blockchain.](https://github.com/CambrianAgents/sei-agent-kit)
  - [🪲 Cambrian Agent Launcher - An AI Agent with a React UI built with the Sei Agent Kit that can perform actions on chain.](https://github.com/CambrianAgents/agent-launcher)
  - [🧠 NLP - Transformer Architectures for Financial Sentiment Analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
