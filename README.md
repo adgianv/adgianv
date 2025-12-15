@@ -1,6 +1,8 @@
 # Hi
  
  I am a Machine Learning Engineer and Software developer.
+
+ NLP Engineer for [MantisNLP](https://mantisnlp.com/) and Co-founder of [CambrianAI](https://www.cambrian.wtf/) 🪲
  
  Reach me:
  
