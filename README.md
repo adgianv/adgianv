@@ -9,10 +9,10 @@
 
   ## 🌟 Featured Open Source Projects and Research
  - [🌾 Sieves - Python Library and package to build NLP prototypes using LLMs via Zero and Few-shot tasks with structured generation.](https://github.com/MantisAI/sieves)
+ - [📷 Computer Vision Research - War through the Lens of AI. Detecting war images in Television News](https://github.com/adgianv/War-Image-Classification)
  - [🪲 Sei Agent Kit - Typescript SDK to build AI Agents on the SEI blockchain.](https://github.com/CambrianAgents/sei-agent-kit)
- - [🪲 Cambrian Agent Launcher - An AI Agent with a React UI built with the Sei Agent Kit that can perform actions on chain.](https://github.com/CambrianAgents/agent-launcher)
+ - [🤖 Object Detection Model - Tank detection using a fine tuned version of YOLO-v8](https://github.com/adgianv/Object-Detection-Model)
  - [🧠 NLP - Transformer Architectures for Financial Sentiment Analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
- - [🤖 Computer Vision Research - War through the Lens of AI. Detecting war images in Television News](https://github.com/adgianv/Thesis---War-Image-Classification)
  
  ## 🚀 Favourite Programming Languages and Frameworks
 <p align="center">
@@ -34,4 +34,5 @@ Feel free to reach out:
  
  - 📧 Email: a.digianvito@hotmail.it
  - 🌐 LinkedIn: [Angelo di Gianvito](https://www.linkedin.com/in/angelo-d-157381105/)
+ - 💼 Portfolio: [adgianv](https://adgianv.github.io/)
  
