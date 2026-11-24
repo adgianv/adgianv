@@ -2,7 +2,7 @@
  
  I am a Machine Learning Engineer and Software Engineer focused on computer vision, building models that perceive and act in the real world.
 
- Computer Vision Research Engineer at [LISER](https://liser.lu/en) 🤖 and Co-founder and Software Engineer of [CambrianAI](https://www.cambrian.wtf/) 🪲
+ Computer Vision Research Engineer at [LISER](https://liser.lu/en) 🤖 and Co-founder and Software Engineer of [CambrianAI](https://cambrian.it/) 🪲
  
  Reach me:
  
