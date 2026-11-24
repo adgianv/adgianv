@@ -1,8 +1,8 @@
 # Hi
  
- I am a Machine Learning Engineer and Researcher focused on computer vision, building models that perceive and act in the real world.
+ I am a Machine Learning Engineer and Software Engineer focused on computer vision, building models that perceive and act in the real world.
 
- NLP Engineer for [MantisNLP](https://mantisnlp.com/) and Co-founder of [CambrianAI](https://www.cambrian.wtf/) 🪲
+ Computer Vision Research Engineer at [LISER](https://liser.lu/en) 🤖 and Co-founder and Software Engineer of [CambrianAI](https://www.cambrian.wtf/) 🪲
  
  Reach me:
  
@@ -10,6 +10,7 @@
  [![GitHub](https://img.shields.io/badge/-Follow-black?style=flat&logo=GitHub)](https://github.com/adgianv)
 
   ## 🌟 Featured Open Source Projects and Research
+ - 🛰️ Conflict Damage Detection from Satellite Imagery - Self-supervised ViT-MAE pretraining and Siamese change detection to map building destruction across 15 cities in Syria, Ukraine and Gaza (paper in preparation)
  - [📷 Computer Vision Research - War through the Lens of AI. Detecting war images in Television News](https://github.com/adgianv/War-Image-Classification)
  - [🤖 Object Detection Model - Tank detection using a fine tuned version of YOLO-v8](https://github.com/adgianv/Object-Detection-Model)
  - [🌾 Sieves - Python Library and package to build NLP prototypes using LLMs via Zero and Few-shot tasks with structured generation.](https://github.com/MantisAI/sieves)
