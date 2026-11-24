@@ -1,6 +1,6 @@
 # Hi
  
- I am a Machine Learning Engineer and Software developer.
+ I am a Machine Learning Engineer and Researcher focused on computer vision, building models that perceive and act in the real world.
 
  NLP Engineer for [MantisNLP](https://mantisnlp.com/) and Co-founder of [CambrianAI](https://www.cambrian.wtf/) 🪲
  
@@ -10,10 +10,10 @@
  [![GitHub](https://img.shields.io/badge/-Follow-black?style=flat&logo=GitHub)](https://github.com/adgianv)
 
   ## 🌟 Featured Open Source Projects and Research
- - [🌾 Sieves - Python Library and package to build NLP prototypes using LLMs via Zero and Few-shot tasks with structured generation.](https://github.com/MantisAI/sieves)
  - [📷 Computer Vision Research - War through the Lens of AI. Detecting war images in Television News](https://github.com/adgianv/War-Image-Classification)
- - [🪲 Sei Agent Kit - Typescript SDK to build AI Agents on the SEI blockchain.](https://github.com/CambrianAgents/sei-agent-kit)
  - [🤖 Object Detection Model - Tank detection using a fine tuned version of YOLO-v8](https://github.com/adgianv/Object-Detection-Model)
+ - [🌾 Sieves - Python Library and package to build NLP prototypes using LLMs via Zero and Few-shot tasks with structured generation.](https://github.com/MantisAI/sieves)
+ - [🪲 Sei Agent Kit - Typescript SDK to build AI Agents on the SEI blockchain.](https://github.com/CambrianAgents/sei-agent-kit)
  - [🧠 NLP - Transformer Architectures for Financial Sentiment Analysis](https://github.com/adgianv/NLP-Transformer_architectures-Financial_Sentiment_Analysis_Twitter)
  
  ## 🚀 Favourite Programming Languages and Frameworks
@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="Python" title="Python" height="50px"/>
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="C" title="C" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" height="50px"/>
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="50px"/>
 </p>
