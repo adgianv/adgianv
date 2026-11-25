@@ -31,7 +31,7 @@
  
 Feel free to reach out:
  
- - 📧 Email: a.digianvito@hotmail.it
+ - 📧 Email: adgianv@gmail.com
  - 🌐 LinkedIn: [Angelo di Gianvito](https://www.linkedin.com/in/angelo-d-157381105/)
  - 💼 Portfolio: [adgianv](https://adgianv.github.io/)
  
